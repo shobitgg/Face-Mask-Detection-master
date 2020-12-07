@@ -22,7 +22,7 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Demo.gif)
+
 
 
 
@@ -105,24 +105,3 @@ $ python3 detect_mask_video.py
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
-
-#### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
-
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
-
-## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
-
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
-
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
